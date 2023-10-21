@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">SympleIntent</string>
+    <string name="buton">Iniciando Activity</string>
+</resources>
